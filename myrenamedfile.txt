@@ -1,0 +1,1 @@
+Hello content!create a new file using node js ....using fs.appendFile moduleadding  This is my text to the file mynewfile1 created by using node.js.
